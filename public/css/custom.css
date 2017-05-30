@@ -1,0 +1,19 @@
+@font-face{
+	src: url(../fonts/Raleway-Light.ttf);
+	font-family: Raleway;
+}
+h1,h2,h3,h4,h5,h6{
+	font-family: Raleway, sans-serif;
+}
+.text-grey{
+	color: rgba(175,175,175,1.0);
+}
+.text-xl{
+	font-size: 36px;
+}
+.text-l{
+	font-size: 24px;
+}
+.paddingTB{
+	padding: 10px 0;
+}
